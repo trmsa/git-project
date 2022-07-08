@@ -1,0 +1,24 @@
+.title {
+    color: blueviolet;
+    margin-left: 100px;
+}
+
+.link {
+    margin-right: 15px;
+    color: brown;
+
+}
+
+.nav-links {
+    margin-right: 100px;
+}
+
+
+.navbar {
+    display: flex;
+    height: 100px;
+    width: 100vw;
+    background-color: cornflowerblue;
+    justify-content: space-between;
+    align-items: center;
+}
